@@ -1,9 +1,7 @@
-Advent of Code
-========
+# Advent of Code
 
-Minhas soluções para o advent of code.
+Minhas soluções para o [Advent of Code](http://adventofcode.com).
 
-Créditos
--------
+## Créditos
 
 Desenvolvido por José Morais ([@jmorais](https://github.com/jmorais))
